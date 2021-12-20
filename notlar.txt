@@ -1,16 +1,28 @@
 A) - UZAKTAN ERISIM :
-1 - WEB uzerinden uzaktan kapiya baglanilip kapi uzerindeki arizalarin WEB uzerinden gorulmesi, montaji bitmis olan kapinin WEB uzerinden testleri ve devreye alinmasi, servis talep edilmis (cozulemeyen sorunun tesbiti) kapinin sorununu WEB uzerinden bulup, giderme calismalari.
+1 - WEB uzerinden uzaktan kapiya baglanilip kapi uzerindeki arizalarin WEB uzerinden gorulmesi, 
+montaji bitmis olan kapinin WEB uzerinden testleri ve devreye alinmasi, 
+servis talep edilmis (cozulemeyen sorunun tesbiti) kapinin sorununu WEB uzerinden bulup, giderme calismalari.
 
-2 - TABLET uzerinden, yakindan erisim : Kapinin yakinindan, Mobil (kapi icin ayarlanmis ozel Tablet ile ) kapiya baglanilip kapi uzerindeki arizalarin TABLET uzerinden gorulmesi, montaji bitmis olan kapinin TABLET uzerinden testleri ve devreye alinmasi, servis talep edilmis (cozulemeyen sorunun tesbiti) kapinin sorununu TABLET uzerinden bulup, giderme calismalari.
+2 - TABLET uzerinden, yakindan erisim : Kapinin yakinindan, Mobil (kapi icin ayarlanmis ozel Tablet ile ) 
+kapiya baglanilip kapi uzerindeki arizalarin TABLET uzerinden gorulmesi, montaji bitmis olan kapinin 
+TABLET uzerinden testleri ve devreye alinmasi, servis talep edilmis (cozulemeyen sorunun tesbiti) 
+kapinin sorununu TABLET uzerinden bulup, giderme calismalari.
 
 B) - MONITORING :
-1 - Kapi uzerinde  sorun cikan noktalarin MONITOR ( kapiyi, gozlem altinda tutma, duzenli bilgi, geri donus alma ) edilerek,  alinan verilerin anlik sekilde islemciye gonderilme isi.
+1 - Kapi uzerinde  sorun cikan noktalarin MONITOR ( kapiyi, gozlem altinda tutma, 
+duzenli bilgi, geri donus alma ) edilerek,  alinan verilerin 
+anlik sekilde islemciye gonderilme isi.
 
-2 - Monitoring edilmis bu noktalardan gelen verilerin anlik olarak WEB uzerinde goruntulenmesi, boylelikle biz  nerede ariza var, sensor calisiyormu, motor durdumu, kanat kirildimi vb gibi bilgilerin WEB uzerinde anlik izlememizi saglar.
+2 - Monitoring edilmis bu noktalardan gelen verilerin anlik olarak WEB uzerinde 
+goruntulenmesi, boylelikle biz  nerede ariza var, sensor calisiyormu, 
+motor durdumu, kanat kirildimi vb gibi bilgilerin 
+WEB uzerinde anlik izlememizi saglar.
 
 C) - CAMERA :
-1 - Kemera kullanimi ile kapinin ihtiyaci olan ( sensorler ile karsilanmayan ) datalari olusturup, islemciye gondererek, daha akilli bir sistem ortaya cikarmak.
-2 - Ittirgech, SecuREVO, SecuCRS gibi kapilarda kullanici kontrolu yaparak, islemcinin daha dogru bir sekilde kapiyi calistirmasi saglanir.
+1 - Kemera kullanimi ile kapinin ihtiyaci olan ( sensorler ile karsilanmayan ) 
+datalari olusturup, islemciye gondererek, daha akilli bir sistem ortaya cikarmak.
+2 - Ittirgech, SecuREVO, SecuCRS gibi kapilarda kullanici kontrolu yaparak, 
+islemcinin daha dogru bir sekilde kapiyi calistirmasi saglanir.
 
 D) - SmartMASTER Kapi Islemcisi :
 1 -  Islemcilerin kullanilacagi kapi tipleri:
