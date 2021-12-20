@@ -24,7 +24,7 @@ datalari olusturup, islemciye gondererek, daha akilli bir sistem ortaya cikarmak
 2 - Ittirgech, SecuREVO, SecuCRS gibi kapilarda kullanici kontrolu yaparak, 
 islemcinin daha dogru bir sekilde kapiyi calistirmasi saglanir.
 
-D) - SmartMASTER Kapi Islemcisi :
+D) - SmartMASTER KAPI ISLEMCISI :
 1 -  Islemcilerin kullanilacagi kapi tipleri:
   MR30 - GLS - M-COM - GRA - CRS - SecuREVO - SecuCRS
 
