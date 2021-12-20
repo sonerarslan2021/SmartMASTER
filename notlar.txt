@@ -1,9 +1,9 @@
 A) - UZAKTAN ERISIM :
-1 - WEB uzerinden uzaktan kapiya baglanilip kapi uzerindeki arizalarin WEB uzerinden gorulmesi, 
+1 - Web uzerinden uzaktan kapiya baglanilip kapi uzerindeki arizalarin WEB uzerinden gorulmesi, 
 montaji bitmis olan kapinin WEB uzerinden testleri ve devreye alinmasi, 
 servis talep edilmis (cozulemeyen sorunun tesbiti) kapinin sorununu WEB uzerinden bulup, giderme calismalari.
 
-2 - TABLET uzerinden, yakindan erisim : Kapinin yakinindan, Mobil (kapi icin ayarlanmis ozel Tablet ile ) 
+2 - Tablet uzerinden, yakindan erisim : Kapinin yakinindan, Mobil (kapi icin ayarlanmis ozel Tablet ile ) 
 kapiya baglanilip kapi uzerindeki arizalarin TABLET uzerinden gorulmesi, montaji bitmis olan kapinin 
 TABLET uzerinden testleri ve devreye alinmasi, servis talep edilmis (cozulemeyen sorunun tesbiti) 
 kapinin sorununu TABLET uzerinden bulup, giderme calismalari.
