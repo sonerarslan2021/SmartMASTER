@@ -1,14 +1,15 @@
-A) - UZAKTAN ERISIM :
+A) - WEB UZAKTAN ERISIM :
 1 - Web uzerinden uzaktan kapiya baglanilip kapi uzerindeki arizalarin WEB uzerinden gorulmesi, 
 montaji bitmis olan kapinin WEB uzerinden testleri ve devreye alinmasi, 
 servis talep edilmis (cozulemeyen sorunun tesbiti) kapinin sorununu WEB uzerinden bulup, giderme calismalari.
 
-2 - Tablet uzerinden, yakindan erisim : Kapinin yakinindan, Mobil (kapi icin ayarlanmis ozel Tablet ile ) 
+B) - TABLET UZAKTAN ERISIM :
+1 - Tablet uzerinden, yakindan erisim : Kapinin yakinindan, Mobil (kapi icin ayarlanmis ozel Tablet ile ) 
 kapiya baglanilip kapi uzerindeki arizalarin TABLET uzerinden gorulmesi, montaji bitmis olan kapinin 
 TABLET uzerinden testleri ve devreye alinmasi, servis talep edilmis (cozulemeyen sorunun tesbiti) 
 kapinin sorununu TABLET uzerinden bulup, giderme calismalari.
 
-B) - MONITORING - DIAGNOSTIC :
+C) - MONITORING - DIAGNOSTIC :
 1 - Kapi uzerinde  sorun cikan noktalarin MONITOR ( kapiyi, gozlem altinda tutma, 
 duzenli bilgi, geri donus alma ) edilerek,  alinan verilerin 
 anlik sekilde islemciye gonderilme isi.
@@ -22,13 +23,13 @@ WEB uzerinde anlik izlememizi saglar.
 harici ekrana ( web - Tablet ) sayisal veya isaretle gosterme isi.
 https://i.record.global/en/home ornek bir calisma
 
-C) - CAMERA :
+D) - CAMERA :
 1 - Kemera kullanimi ile kapinin ihtiyaci olan ( sensorler ile karsilanmayan ) 
 datalari olusturup, islemciye gondererek, daha akilli bir sistem ortaya cikarmak.
 2 - Ittirgech, SecuREVO, SecuCRS gibi kapilarda kullanici kontrolu yaparak, 
 islemcinin daha dogru bir sekilde kapiyi calistirmasi saglanir.
 
-D) - SmartMASTER KAPI ISLEMCISI :
+E) - SmartMASTER KAPI ISLEMCISI :
 1 -  Islemcilerin kullanilacagi kapi tipleri:
   MR30 - GLS - M-COM - GRA - CRS - SecuREVO - SecuCRS
 
