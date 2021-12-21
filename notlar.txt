@@ -8,7 +8,7 @@ kapiya baglanilip kapi uzerindeki arizalarin TABLET uzerinden gorulmesi, montaji
 TABLET uzerinden testleri ve devreye alinmasi, servis talep edilmis (cozulemeyen sorunun tesbiti) 
 kapinin sorununu TABLET uzerinden bulup, giderme calismalari.
 
-B) - MONITORING :
+B) - MONITORING - DIAGNOSTIC :
 1 - Kapi uzerinde  sorun cikan noktalarin MONITOR ( kapiyi, gozlem altinda tutma, 
 duzenli bilgi, geri donus alma ) edilerek,  alinan verilerin 
 anlik sekilde islemciye gonderilme isi.
@@ -17,6 +17,10 @@ anlik sekilde islemciye gonderilme isi.
 goruntulenmesi, boylelikle biz  nerede ariza var, sensor calisiyormu, 
 motor durdumu, kanat kirildimi vb gibi bilgilerin 
 WEB uzerinde anlik izlememizi saglar.
+
+3 - Diagnostic yontemi ile, kapidaki hata ve arizalari test ve olcum isleri yaparak, 
+harici ekrana ( web - Tablet ) sayisal veya isaretle gosterme isi.
+https://i.record.global/en/home ornek bir calisma
 
 C) - CAMERA :
 1 - Kemera kullanimi ile kapinin ihtiyaci olan ( sensorler ile karsilanmayan ) 
